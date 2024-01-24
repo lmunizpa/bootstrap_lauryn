@@ -1,0 +1,23 @@
+
+/* css doc */
+
+.yellow-col {
+    background-color: yellow;
+}
+.orange-col {
+    background-color: orange;
+}
+.brown-col {
+    background-color: brown;
+}
+
+.nav-aria-color{
+    font-weight: bold;
+    color: antiquewhite !important;
+}
+.navbar-color {
+    background-color: cornflowerblue !important;
+}
+.nav-link{
+    color: black;
+}

@@ -1,0 +1,41 @@
+
+/* css doc */
+
+.yellow-col {
+    padding-top: 15px; 
+    padding-left: 15px;
+    text-align: left;
+}
+.brown-col {
+    padding-top: 15px;
+    padding-left: 15px;
+    text-align: left;
+}
+
+html body{
+     .roboto-slab {
+        font-family: "Roboto Slab", serif;
+        font-optical-sizing: auto;
+      };
+     
+}
+.nav-aria-color{
+    font-weight: bold;
+    color: antiquewhite !important;
+}
+.navbar-color {
+    background-color: cornflowerblue !important;
+}
+.nav-link{
+    color: black;
+}
+.navbar-toggler{
+    color: white;
+}
+.bold{
+    font-weight: bold;
+}
+
+.footer-blue{
+    background-color: aliceblue;
+}
